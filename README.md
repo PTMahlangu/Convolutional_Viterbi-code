@@ -1,1 +1,1 @@
-# Convolutional encoder Viterbi decoder
+# Convolutional encoder and Viterbi decoder
